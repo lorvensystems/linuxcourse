@@ -1,6 +1,5 @@
 # SYSTEMD Tools to Manage SYSTEMD service
 
-  - Take me to the [Tutorial](https://kodekloud.com/courses/873064/lectures/17074645)
 
   In this lecture we will explore two major SYSTEMD tools:
   - SYSTEMCTL
@@ -118,6 +117,3 @@
       ```
       [~]$ journalctl -u docker.service 
       ```
-## HANDS-ON LABS
-
-  - Now lets troubleshoot and help **`Bob`** [Let's Help Bob](https://kodekloud.com/courses/the-linux-basics-course/lectures/17074647)

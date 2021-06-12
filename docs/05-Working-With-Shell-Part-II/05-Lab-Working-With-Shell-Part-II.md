@@ -1,6 +1,5 @@
 # Lab - Working With Shell Part - II
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/courses/873064/lectures/17080558)
 
 Create a tarball of the directory called **`python`** and compress it using **`gzip`**. The compressed tar file should be available at **`/home/bob/python.tar.gz`**
 ```

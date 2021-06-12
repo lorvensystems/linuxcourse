@@ -1,6 +1,5 @@
 # ACCESS CONTROL FILES
 
-  - Take me to the [Tutorial](https://kodekloud.com/courses/873064/lectures/17074502)
   
   - Access Ccontrol files are stored under **`/etc`**.
   - Can be read by anyone and can be only edited by **`root`** user.
@@ -39,6 +38,3 @@
 
     ![egp](../../images//egp.PNG)
 
-# HANDS-ON LABS
-
-  - Lets start with Managing and User Accounts [here](https://kodekloud.com/courses/the-linux-basics-course/lectures/17074503)

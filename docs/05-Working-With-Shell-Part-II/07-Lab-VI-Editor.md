@@ -1,6 +1,5 @@
 # Lab - VI Editor
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/courses/873064/lectures/17080603)
 
 Go to **`insert mode`**
 ```

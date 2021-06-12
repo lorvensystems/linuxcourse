@@ -1,6 +1,5 @@
 # DISK'S & PARTITIONS
 
-- Take me to the [Tutorial](https://kodekloud.com/courses/873064/lectures/17074601)
 
 - In this lecture we will learn about Disk Partitions. 
 - We will look at the File Systems such as EXT series and NFS.
@@ -100,7 +99,3 @@
     Device Start End Sectors Size Type
     /dev/sdb1 2048 41943006 204800 20GB Linux filesystem
     ```
-
- # HANDS-ON LABS
-
-   -  [Troubleshoot](https://kodekloud.com/courses/873064/lectures/17074602) why **`Bob's`** System is not displaying the entire size of the physical disk
